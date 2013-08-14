@@ -121,7 +121,7 @@ if (!empty($_POST)) {
 		
 		
 		<!-- Javascript stuff =======================-->
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 		<script src="js/bootstrap-affix.js"></script>
 		<script src="js/bootstrap-alert.js"></script>
 		<script src="js/bootstrap-button.js"></script>

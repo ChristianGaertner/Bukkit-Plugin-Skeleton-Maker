@@ -1,6 +1,8 @@
 Bukkit-Plugin-Skeleton-Maker
 ============================
 
+**NOTE**: This implementation is not "good" style and shouldn' t be consired as production ready. At some point I may rewrite this!
+
 Create the skeleton for a bukkit-plugin with ease.
 
 How to install
